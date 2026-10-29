@@ -1,0 +1,21 @@
+# 中间产物与运行输出
+output/
+data/
+
+# 团队内部过程日志
+.logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# 编辑器与系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
